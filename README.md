@@ -1,4 +1,4 @@
-# react-native-multi-slider
+# react-native-range-slider
 
 Type script react native range slider component.
 this range slider has two markers.
